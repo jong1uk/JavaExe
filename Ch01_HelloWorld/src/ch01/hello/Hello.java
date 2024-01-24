@@ -8,5 +8,9 @@ public class Hello {
 		System.out.println("Hello, 대한민국");
 		System.out.println("Hello, jong1uk");
 		System.out.println("Helloooo");
+		
+		for(int i=0;i<10;i++) {
+			System.out.println(i);
+		}
 	}
 }
