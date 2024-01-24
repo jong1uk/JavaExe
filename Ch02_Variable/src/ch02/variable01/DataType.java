@@ -19,6 +19,7 @@ public class DataType {
 		System.out.println(nameString);
 		System.out.println(isRun);
 		System.out.println(string);
+		System.out.println(string);
 		
 	}
 
